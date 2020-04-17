@@ -1,0 +1,6 @@
+The best part of the project is it's explanation, Here I have used a dataset to figure out whether or not a patientis suffering from a heart 
+disease. I have started the project by importing the libraries, loading the dataset and performing exploratory data analysis-Helps to
+get the insights and the patterns in the dataset.
+FEATURE SELECTION: Helps us to find the variables or consider the variables that are significant leaving behind insignificant variables.
+FEATURE SCALING: Helps to scale the data to an equal range here we used standard scaler.
+Model: Applied KNN, ANN, Random forest Classifier
